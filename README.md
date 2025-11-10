@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitTanwar108
-- 👀 I’m interested in ...time series 
-- 🌱 I’m currently learning ...predictive modeling 
-- 💞️ I’m looking to collaborate on ...forecasting models
+- 👀 I’m interested in ...Machine learning and AI 
+- 🌱 I’m currently learning ...Agentic AI
+- 💞️ I’m looking to collaborate on ...Agentic Ai and advance RAG
 - 📫 How to reach me ...tanwar_sumit09@yahoo.com
 
 <!---
